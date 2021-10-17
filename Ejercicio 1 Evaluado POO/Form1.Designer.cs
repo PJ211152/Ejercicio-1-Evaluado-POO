@@ -61,7 +61,7 @@
             this.btn_Generar.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Blue;
             this.btn_Generar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_Generar.ForeColor = System.Drawing.Color.White;
-            this.btn_Generar.Location = new System.Drawing.Point(170, 133);
+            this.btn_Generar.Location = new System.Drawing.Point(164, 133);
             this.btn_Generar.Name = "btn_Generar";
             this.btn_Generar.Size = new System.Drawing.Size(126, 23);
             this.btn_Generar.TabIndex = 0;
@@ -179,7 +179,7 @@
             this.button1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Blue;
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.ForeColor = System.Drawing.Color.White;
-            this.button1.Location = new System.Drawing.Point(170, 102);
+            this.button1.Location = new System.Drawing.Point(164, 102);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(126, 23);
             this.button1.TabIndex = 6;
